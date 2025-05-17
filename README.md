@@ -14,6 +14,10 @@ The lab integrates Shuffle (SOAR), Elastic Stack (SIEM), and Slack to create a l
 
 ---
 
+[🔗 Return to My Portfolio](https://your-portfolio-url.com)
+
+---
+
 ## Lab Objectives
 
 - [ ] Deploy Elastic Stack and simulate alert ingestion
