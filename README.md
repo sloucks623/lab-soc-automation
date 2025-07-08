@@ -49,3 +49,5 @@ The lab integrates Shuffle (SOAR), Elastic Stack (SIEM), and Slack to create a l
                                                +--------+
 ---
 📋 **Professional Standards**: [ITIL 4 Service Management Compliance](./ITIL-4-COMPLIANCE.md) | **WGU BSCSIA Portfolio**
+---
+📋 **Professional Standards**: [ITIL 4 Service Management Compliance](./ITIL-4-COMPLIANCE.md) | **WGU BSCSIA Portfolio**
